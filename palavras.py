@@ -1,3 +1,4 @@
+                                                                            #Jogo Forca:
 lista_palavras = {
     "animais": ["gato", "cachorro", "lagarto"],
     "frutas": ["maçã", "banana", "uva"],
