@@ -1,3 +1,4 @@
+                                                                    #Jogo Forca:
 """Está abrindo o diretório 'pycache' e eu não sei como resolver.
 Já coloquei 'set PYTHONDONTWRITEBYTECODE=1', mas não funcionou .
 No entanto, isso não afeta o funcionamento do jogo. """
