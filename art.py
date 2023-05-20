@@ -1,3 +1,4 @@
+                                                                        #Jogo Forca:
 estagios = ['''
 =========
   +---+
