@@ -1,7 +1,7 @@
 lista_palavras = {
-    "animais": ["gato", "cachorro", "elefante"],
-    "frutas": ["maçã", "banana", "laranja"],
+    "animais": ["gato", "cachorro", "lagarto"],
+    "frutas": ["maçã", "banana", "uva"],
     "países": ["brasil", "japão", "canadá"],
-    "cores": ["vermelho", "azul", "verde"],
-    "esportes": ["futebol", "tênis", "basquete"]
+    "cores": ["branco", "azul", "rosa"],
+    "esportes": ["futebol", "volei", "basquete"]
 }
