@@ -1,4 +1,4 @@
-                                            #LISTA ESTRUTUTA DE DECISÃO
+                                                              #Lista de exercícios - Estrutura de Decisão:
 
 '''1)Solicite ao usuário um valor numérico, inteiro ou real, e verifique se ele é maior ou
 menor que 10. O programa deve escrever a mensagem correspondente (maior ou
