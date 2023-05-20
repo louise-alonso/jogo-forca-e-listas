@@ -1,5 +1,4 @@
-                                     
-                                     #Lista de exercícios - Estrutura Sequencial:
+                                                                        #Lista de exercícios - Estrutura Sequencial:
 
 '''1. Faça um programa que converta metros para centímetros.'''
 
