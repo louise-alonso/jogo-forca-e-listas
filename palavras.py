@@ -1,8 +1,8 @@
                                                                             #Jogo Forca:
 lista_palavras = {
     "animais": ["gato", "cachorro", "lagarto"],
-    "frutas": ["maçã", "banana", "uva"],
-    "países": ["brasil", "japão", "canadá"],
+    "frutas": ["ameixa", "banana", "uva"],
+    "países": ["Brasil", "Cuba", "Argentina"],
     "cores": ["branco", "azul", "rosa"],
     "esportes": ["futebol", "volei", "basquete"]
 }
